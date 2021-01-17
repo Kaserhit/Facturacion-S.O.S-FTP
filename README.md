@@ -19,7 +19,7 @@ El proyecto busco cumplir todas las solicitudes realizadas por parte del cliente
 
 Repositorio: https://github.com/Kaserhit/Facturacion-S.O.S-FTP
 
-Silabo del Proyecto: 
+Silabo del Proyecto: https://github.com/Kaserhit/Facturacion-S.O.S-FTP/blob/main/NL0105%20-%20Detalle%20Proyecto%20Síntesis.pdf
 
 
 
